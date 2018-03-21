@@ -7,6 +7,13 @@
   background-image: url(../images/the-flatiron-building.png);
 }
 
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -37,4 +44,13 @@ h4 {
 
 p {
   font-size: 14px;
+}
+
+.copyright {
+  text-align: left;
+  font-size: 11px;
+}
+
+.clink {
+  font-size: 11px;
 }
